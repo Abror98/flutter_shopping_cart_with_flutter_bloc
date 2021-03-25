@@ -1,0 +1,18 @@
+name: flutter_shopping_cart
+description: A new Flutter project.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.0
+  equatable: ^2.0.0
+
+dependency_overrides:
+
+flutter:
+  uses-material-design: true
