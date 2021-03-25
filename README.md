@@ -2,7 +2,7 @@
 
 # flutter_shopping_cart
 
-A new Flutter project.
+A new Flutter project. thank to Felix
 
 ## Getting Started
 
